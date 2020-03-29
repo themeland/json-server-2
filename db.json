@@ -111,5 +111,59 @@
                 "text": "Mobile App"
             }
         ]
+    },
+    "themeOneBlogDetails": {
+        "title": "How to grow up your business with sApp",
+        "image": "assets/img/blog/blog-2.jpg",
+        "author": "Anna Swford",
+        "date": "05 Feb, 2020",
+        "comments": "2 Comments",
+        "text_1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
+        "text_2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.",
+        "text_3": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.",
+        "text_4": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.",
+        "quoteText_1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.",
+        "quoteText_2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+        "adminImage": "assets/img/avatar/avatar-1.png",
+        "admin": "Anna Swford",
+        "adminText": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock Virginia.",
+        "commentsTitle": "Recent Comments",
+        "commentsPost": "Post your Comments",
+        "postText": "Send Message",
+        "iconList": [
+            {
+                "id": 1,
+                "link": "bg-white facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "bg-white twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "bg-white google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            }
+        ],
+        "commentsData": [
+            {
+                "id": 1,
+                "commentsImage": "assets/img/avatar/avatar-2.png",
+                "commentsAuthor": "Junaid Hasan",
+                "replyText": "Reply",
+                "commentsText_1": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+                "commentsText_2": "The standard chunk of Lorem Ipsum used since the 1500s."
+            },
+            {
+                "id": 2,
+                "commentsImage": "assets/img/avatar/avatar-3.png",
+                "commentsAuthor": "Jassica William",
+                "replyText": "Reply",
+                "commentsText_1": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                "commentsText_2": "All the Lorem Ipsum generators on the Internet tend to repeat."
+            }
+        ]
     }
 }
