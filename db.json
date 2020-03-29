@@ -1,0 +1,115 @@
+{
+    "themeOneSidebarData": {
+        "widgetTitle_1": "Categories",
+        "widgetTitle_2": "Popular Post",
+        "widgetTitle_3": "Popular Tags",
+        "widgetData_1": [
+            {
+                "id": 1,
+                "text": "Web Design",
+                "content": "(14)"
+            },
+            {
+                "id": 2,
+                "text": "App Landing",
+                "content": "(32)"
+            },
+            {
+                "id": 3,
+                "text": "Wordpress",
+                "content": "(27)"
+            },
+            {
+                "id": 4,
+                "text": "UI Design",
+                "content": "(18)"
+            },
+            {
+                "id": 5,
+                "text": "Bootstrap",
+                "content": "(15)"
+            },
+            {
+                "id": 6,
+                "text": "Web Template",
+                "content": "(29)"
+            }
+        ],
+        "widgetData_2": [
+            {
+                "id": 1,
+                "image": "assets/img/avatar/avatar-1.png",
+                "date": "05 Feb, 2018",
+                "title": "Promote Your Apps With sApp"
+            },
+            {
+                "id": 2,
+                "image": "assets/img/avatar/avatar-2.png",
+                "date": "12 Feb, 2020",
+                "title": "Sell Your Product Like Never Before"
+            },
+            {
+                "id": 3,
+                "image": "assets/img/avatar/avatar-3.png",
+                "date": "13 Jul, 2019",
+                "title": "Built For Passionate People"
+            },
+            {
+                "id": 4,
+                "image": "assets/img/avatar/avatar-4.png",
+                "date": "03 Oct, 2019",
+                "title": "Get Unlimited Offers & Plans"
+            }
+        ],
+        "widgetData_3": [
+            {
+                "id": 1,
+                "text": "sApp"
+            },
+            {
+                "id": 2,
+                "text": "Bootstrap"
+            },
+            {
+                "id": 3,
+                "text": "IOS"
+            },
+            {
+                "id": 4,
+                "text": "Android"
+            },
+            {
+                "id": 5,
+                "text": "Landing Page"
+            },
+            {
+                "id": 6,
+                "text": "Business"
+            },
+            {
+                "id": 7,
+                "text": "Fashion"
+            },
+            {
+                "id": 8,
+                "text": "Media"
+            },
+            {
+                "id": 9,
+                "text": "Lifestyle"
+            },
+            {
+                "id": 10,
+                "text": "Wordpress"
+            },
+            {
+                "id": 11,
+                "text": "Web Design"
+            },
+            {
+                "id": 12,
+                "text": "Mobile App"
+            }
+        ]
+    }
+}
