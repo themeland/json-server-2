@@ -38,25 +38,25 @@
         "widgetData_2": [
             {
                 "id": 1,
-                "image": "assets/img/avatar/avatar-1.png",
+                "image": "/img/avatar-1.png",
                 "date": "05 Feb, 2018",
                 "title": "Promote Your Apps With sApp"
             },
             {
                 "id": 2,
-                "image": "assets/img/avatar/avatar-2.png",
+                "image": "/img/avatar-2.png",
                 "date": "12 Feb, 2020",
                 "title": "Sell Your Product Like Never Before"
             },
             {
                 "id": 3,
-                "image": "assets/img/avatar/avatar-3.png",
+                "image": "/img/avatar-3.png",
                 "date": "13 Jul, 2019",
                 "title": "Built For Passionate People"
             },
             {
                 "id": 4,
-                "image": "assets/img/avatar/avatar-4.png",
+                "image": "/img/avatar-4.png",
                 "date": "03 Oct, 2019",
                 "title": "Get Unlimited Offers & Plans"
             }
@@ -114,7 +114,7 @@
     },
     "themeOneBlogDetails": {
         "title": "How to grow up your business with sApp",
-        "image": "assets/img/blog/blog-2.jpg",
+        "image": "/img/blog-2.jpg",
         "author": "Anna Swford",
         "date": "05 Feb, 2020",
         "comments": "2 Comments",
@@ -124,7 +124,7 @@
         "text_4": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.",
         "quoteText_1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.",
         "quoteText_2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
-        "adminImage": "assets/img/avatar/avatar-1.png",
+        "adminImage": "/img/avatar-1.png",
         "admin": "Anna Swford",
         "adminText": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock Virginia.",
         "commentsTitle": "Recent Comments",
@@ -150,7 +150,7 @@
         "commentsData": [
             {
                 "id": 1,
-                "commentsImage": "assets/img/avatar/avatar-2.png",
+                "commentsImage": "/img/avatar-2.png",
                 "commentsAuthor": "Junaid Hasan",
                 "replyText": "Reply",
                 "commentsText_1": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
@@ -158,7 +158,7 @@
             },
             {
                 "id": 2,
-                "commentsImage": "assets/img/avatar/avatar-3.png",
+                "commentsImage": "/img/avatar-3.png",
                 "commentsAuthor": "Jassica William",
                 "replyText": "Reply",
                 "commentsText_1": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
